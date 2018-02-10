@@ -54,10 +54,3 @@ def rpsls(player_choice):
         print "Player wins!"
     else:
         print "Player and Computer tie!"
-    
-# Testing the code
-rpsls("rock")
-rpsls("Spock")
-rpsls("paper")
-rpsls("lizard")
-rpsls("scissors")
