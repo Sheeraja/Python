@@ -1,3 +1,7 @@
+# 'Introduction to Interactive Programming in Python' Course
+# RICE University - coursera.org
+# by Joe Warren, John Greiner, Stephen Wong, Scott Rixner
+
 # For the player on the left, 'w' moves the paddle up and 's' moves it down
 # For the player on the right, 'up' arrow moves the paddle up and 'down' arrow moves it down
 
