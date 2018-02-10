@@ -1,4 +1,8 @@
-# Click on 'Stop' on whole numbers to earn points
+# 'Introduction to Interactive Programming in Python' Course
+# RICE University - coursera.org
+# by Joe Warren, John Greiner, Stephen Wong, Scott Rixner
+
+# Click 'Stop' on whole numbers to earn points
 
 import simplegui
 
