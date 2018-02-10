@@ -1,3 +1,7 @@
+# 'Introduction to Interactive Programming in Python' Course
+# RICE University - coursera.org
+# by Joe Warren, John Greiner, Stephen Wong, Scott Rixner
+
 # Game - Rock Paper Scissors Lizard Spock
 
 # 0 - rock
