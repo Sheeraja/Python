@@ -1,4 +1,4 @@
-# http://www.codeskulptor.org/#user42_TsZ8GHgbTcxcqf8.py
+# Game - Rock Paper Scissors Lizard Spock
 
 # 0 - rock
 # 1 - Spock
